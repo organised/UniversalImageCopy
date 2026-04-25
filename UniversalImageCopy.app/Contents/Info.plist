@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleName</key>
+  <string>UniversalImageCopy</string>
+  <key>CFBundleDisplayName</key>
+  <string>Universal Image Copy</string>
+  <key>CFBundleIdentifier</key>
+  <string>com.codex.UniversalImageCopy</string>
+  <key>CFBundleExecutable</key>
+  <string>UniversalImageCopy</string>
+  <key>CFBundlePackageType</key>
+  <string>APPL</string>
+  <key>CFBundleShortVersionString</key>
+  <string>0.1.0</string>
+  <key>CFBundleVersion</key>
+  <string>0.1.0</string>
+  <key>LSMinimumSystemVersion</key>
+  <string>14.0</string>
+  <key>LSUIElement</key>
+  <true/>
+  <key>NSAppleEventsUsageDescription</key>
+  <string>Universal Image Copy checks the active Chrome tab to confirm you are in Google Slides before converting copied content automatically.</string>
+  <key>NSInputMonitoringUsageDescription</key>
+  <string>Universal Image Copy watches for Command-C so it can convert Google Slides clipboard content into real PNG data automatically.</string>
+</dict>
+</plist>
